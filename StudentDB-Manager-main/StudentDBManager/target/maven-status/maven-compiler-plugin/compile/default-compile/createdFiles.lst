@@ -1,0 +1,7 @@
+com\mycompany\studentdbmanager\Main.class
+model\Student.class
+dao\studentDAO.class
+gui\StudentFrame.class
+database\DatabaseConnection.class
+gui\StudentFrame$1.class
+gui\StudentFrame$2.class
